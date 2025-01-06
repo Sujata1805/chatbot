@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-repo/TalentScoutChatbot.git
+git clone https://github.com/sujata1805/Chatbot
 Navigate to the project directory:
 
 bash
@@ -29,7 +29,7 @@ Run the application:
 bash
 Copy code
 streamlit run your_script_name.py
-The app will be available at http://localhost:8501.
+
 
 Usage
 Start the Chatbot: Upon launching the app, click the "Start" button to begin the interaction.
